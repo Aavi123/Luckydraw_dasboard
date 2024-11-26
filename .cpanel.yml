@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/thrsprot/public_html/
+    - export DEPLOYPATH=/home1/thrsprot/public_html/
     - /bin/cp * $DEPLOYPATH
